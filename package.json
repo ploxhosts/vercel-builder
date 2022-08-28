@@ -1,7 +1,7 @@
 {
-  "name": "@nuxtjs/vercel-builder",
-  "version": "0.22.1",
-  "repository": "nuxt/vercel-builder",
+  "name": "@ploxhosts/vercel-builder",
+  "version": "1.0.0",
+  "repository": "ploxhosts/vercel-builder",
   "license": "MIT",
   "exports": {
     ".": "./lib/index.js",
